@@ -1,0 +1,30 @@
+body {
+    width:960px;
+    margin: auto;
+}
+
+h1 {
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+}
+
+.card {
+    height: 325px;
+}
+
+.card-body {
+    border: dashed;
+    height: 250px;
+    width: 900px;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.card-title {
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+}
+
+.btn-secondary {
+    float: right;
+}

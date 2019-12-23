@@ -1,0 +1,2 @@
+The objective of this repository is to create a webpage that is stylized with Bootstrap and utilizes alerts to create a password. 
+The coding for the alerts should make it so that there are a series of options the user selects to create the criteria the password must meet. 
