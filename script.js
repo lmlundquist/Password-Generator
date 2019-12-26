@@ -118,7 +118,7 @@ function displayPassword() {
 }
 console.log(generatePass());
 console.group("userSelections");
-console.log(passLength);
+console.log(passLength); 
 console.log(passNumbers);
 console.log(passSpecial);
 console.log(passUpperCase);
